@@ -1,8 +1,0 @@
-ebin/*
-deps/*
-*.beam
-.eunit/*
-erl_crash.dump
-log/*
-.ct_results
-test-deps
